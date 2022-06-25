@@ -16,7 +16,7 @@ nav{
 .logo{
     width: 30px;
     height: 44px;
-    border: 1px solid red;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,9 +30,9 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1400px;
+    width: 1000px;
     height: 44px;
-    border: 1px solid red;
+
 }
 .links ul li{
     color: rgb(168, 168, 168);
